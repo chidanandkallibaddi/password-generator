@@ -1,42 +1,26 @@
 # password-generator
 
 ## Installation
-
-
+```
+sudo apt install toilet
+```
+```
+sudo apt install figlet
+```
 ``` 
- git clone https://github.com/sujayadkesar/Auto-recon.git
+ git clone https://github.com/chidanadkallibaddi/password-generator.git
  ```
 ``` 
-cd Auto-recon
+cd password-generator
 ```
 ``` 
-chmod +x auto-recon.sh 
+chmod +x password-generator.sh
 ```
 ``` 
-./auto-recon.sh 
+bash password-generator.sh
 ```
-> **Note** : To access this tool from any directory  
-> ```
->  ln -sf <complete path to auto-recon.sh> /usr/local/bin/auto-recon
->  ```
 
-``` bash
-``` 
-
-## Reconnaissance
-
- <img width="749" alt="image" src="https://user-images.githubusercontent.com/95465072/191880370-3183e421-59a9-49f8-8109-6f7eed865caa.png">
-
-
- - [ ] nslookup
- - [ ] host_discovery
- - [ ] dig utilities
- - [ ] dnsrecon
- - [ ] whatweb
- - [ ] wafw00f
- - [ ] nmap
- - [ ] nmap-script-engines
- - [ ] theHarvester
- - [ ] adding much more soon!!
+## Password Generator
+![pass](https://user-images.githubusercontent.com/72778756/204315256-a6efbbaa-751a-4490-a6e6-bd19d840fd20.png)
 
 
