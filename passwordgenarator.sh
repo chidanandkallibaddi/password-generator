@@ -1,5 +1,6 @@
 #!/bin/bash
 echo Password Generator | toilet -f smmono9 --gay
+figlet -f term "[*] https://github.com/chidanandkallibaddi"
 # Ask user for the string length
 printf "\n"
 read -p "How many characters you would like the password to have? " pass_length
